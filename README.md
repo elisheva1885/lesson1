@@ -2,4 +2,5 @@
 
 
 this is the first lesson in git
-we learn to open repository
+
+now we learning to update files
